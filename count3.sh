@@ -1,2 +1,2 @@
-echo 3
+echo "THREE-MAIN"
 bash count4.sh
